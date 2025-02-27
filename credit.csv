@@ -1,0 +1,21 @@
+ID,Age,Income ,Credit History,Employment Status,Loan Amount ,Marital Status,Education Level,Credit Worthiness
+1,25,50000,Good,Employed,20000,Single,Bachelor,Approved
+2,34,75000,Fair,Employed,30000,Married,Master,Approved
+3,29,45000,Poor,Employed,15000,Single,High School,Denied
+4,41,100000,Excellent,Self-employed,50000,Married,PhD,Approved
+5,22,38000,Good,Employed,12000,Single,Bachelor,Approved
+6,60,60000,Fair,Retired,25000,Married,High School,Denied
+7,36,120000,Excellent,Employed,70000,Married,Master,Approved
+8,28,50000,Poor,Employed,10000,Single,Bachelor,Denied
+9,32,80000,Fair,Employed,30000,Married,Master,Approved
+10,39,95000,Good,Employed,40000,Divorced,Master,Approved
+11,50,70000,Poor,Employed,25000,Married,Bachelor,Denied
+12,23,43000,Excellent,Employed,13000,Single,Bachelor,Approved
+13,47,120000,Good,Self-employed,60000,Married,PhD,Approved
+14,33,54000,Fair,Employed,20000,Married,High School,Approved
+15,31,67000,Good,Employed,35000,Single,Bachelor,Approved
+16,28,50000,Poor,Employed,15000,Single,High School,Denied
+17,55,85000,Excellent,Employed,50000,Married,Master,Approved
+18,26,54000,Fair,Employed,22000,Single,Bachelor,Approved
+19,45,110000,Good,Self-employed,60000,Married,PhD,Approved
+20,38,60000,Poor,Employed,20000,Married,High School,Denied
