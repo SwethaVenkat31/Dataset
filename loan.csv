@@ -1,0 +1,21 @@
+Applicant ID,Age,Gender,Marital Status,Education,Credit History,Loan Amount,Income,Employment Status,Residence Area,Loan Purpose,Approval Status
+1,25,Male,Single,Graduate,Good,50000,60000,Employed,Urban,Home,Approved
+2,35,Female,Married,Postgraduate,Excellent,150000,85000,Employed,Urban,Business,Approved
+3,29,Male,Single,Graduate,Poor,20000,40000,Employed,Rural,Car,Not Approved
+4,40,Female,Married,Undergraduate,Good,70000,75000,Self-employed,Suburban,Home,Approved
+5,28,Male,Single,Graduate,Excellent,100000,70000,Employed,Urban,Education,Approved
+6,32,Female,Married,Postgraduate,Good,120000,90000,Employed,Suburban,Car,Not Approved
+7,45,Male,Divorced,Graduate,Fair,80000,50000,Employed,Rural,Home,Approved
+8,23,Female,Single,Postgraduate,Excellent,50000,55000,Employed,Urban,Business,Approved
+9,38,Male,Married,Undergraduate,Poor,30000,45000,Self-employed,Rural,Education,Not Approved
+10,30,Female,Single,Graduate,Good,40000,48000,Employed,Suburban,Home,Approved
+11,33,Male,Married,Graduate,Excellent,90000,75000,Employed,Urban,Car,Approved
+12,27,Female,Single,Postgraduate,Fair,25000,35000,Employed,Suburban,Education,Not Approved
+13,24,Male,Single,Undergraduate,Poor,15000,30000,Employed,Rural,Car,Not Approved
+14,36,Female,Married,Postgraduate,Good,110000,80000,Employed,Urban,Business,Approved
+15,42,Male,Divorced,Graduate,Excellent,130000,90000,Self-employed,Suburban,Home,Approved
+16,31,Female,Single,Postgraduate,Fair,60000,55000,Employed,Urban,Education,Not Approved
+17,29,Male,Married,Graduate,Good,70000,68000,Employed,Suburban,Car,Approved
+18,34,Female,Divorced,Graduate,Poor,40000,46000,Self-employed,Rural,Home,Not Approved
+19,50,Male,Married,Postgraduate,Excellent,160000,100000,Employed,Urban,Business,Approved
+20,28,Female,Single,Graduate,Good,80000,52000,Employed,Suburban,Education,Approved
