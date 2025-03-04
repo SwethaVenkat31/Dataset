@@ -1,0 +1,50 @@
+Vehicle Make,Vehicle Model,Fuel Type,Engine Size (L),Transmission Type,Vehicle Type
+Toyota,Corolla,Gasoline,1.8,Automatic,Car
+Ford,F-150,Gasoline,3.5,Automatic,Truck
+Honda,Civic,Gasoline,2,Manual,Car
+Yamaha,YZF-R1,Gasoline,1,Manual,Motorcycle
+BMW,3 Series,Gasoline,2.5,Automatic,Car
+Harley-Davidson,Street 750,Gasoline,0.75,Manual,Motorcycle
+Chevrolet,Silverado,Gasoline,5.3,Automatic,Truck
+Mercedes,GLC,Diesel,2.1,Automatic,Car
+Ducati,Panigale V2,Gasoline,1.2,Manual,Motorcycle
+Tesla,Model 3,Electric,0,Automatic,Car
+Nissan,Altima,Gasoline,2.5,CVT,Car
+Honda,Accord,Gasoline,2.4,Automatic,Car
+Ford,Mustang,Gasoline,5,Manual,Car
+Honda,CR-V,Gasoline,2.4,Automatic,Car
+Suzuki,GSX-R1000,Gasoline,1,Manual,Motorcycle
+Audi,A4,Diesel,2,Automatic,Car
+Toyota,Tacoma,Gasoline,3.5,Automatic,Truck
+Kawasaki,Ninja ZX-6R,Gasoline,0.6,Manual,Motorcycle
+Ford,Escape,Gasoline,2.5,Automatic,Car
+Chevrolet,Tahoe,Gasoline,5.3,Automatic,Truck
+Lexus,RX 350,Gasoline,3.5,Automatic,Car
+Subaru,Outback,Gasoline,2.5,CVT,Car
+Toyota,Highlander,Gasoline,3.5,Automatic,Car
+GMC,Sierra,Gasoline,5.3,Automatic,Truck
+BMW,X5,Diesel,3,Automatic,Car
+Harley-Davidson,Iron 883,Gasoline,0.8,Manual,Motorcycle
+Volvo,XC90,Gasoline,2,Automatic,Car
+Kawasaki,Vulcan 900,Gasoline,0.9,Manual,Motorcycle
+Ford,Expedition,Gasoline,3.5,Automatic,Truck
+Honda,Pilot,Gasoline,3.5,Automatic,Car
+Nissan,Rogue,Gasoline,2.5,CVT,Car
+Toyota,Tundra,Gasoline,5.7,Automatic,Truck
+BMW,X3,Gasoline,2,Automatic,Car
+Yamaha,MT-07,Gasoline,0.7,Manual,Motorcycle
+Mercedes,E-Class,Gasoline,3.5,Automatic,Car
+Jaguar,F-Pace,Diesel,2,Automatic,Car
+Honda,Fit,Gasoline,1.5,Manual,Car
+Hyundai,Tucson,Gasoline,2,Automatic,Car
+Audi,Q7,Diesel,3,Automatic,Car
+Subaru,Forester,Gasoline,2.5,CVT,Car
+Nissan,Frontier,Gasoline,4,Automatic,Truck
+Toyota,RAV4,Gasoline,2.5,CVT,Car
+Suzuki,V-Strom 650,Gasoline,0.65,Manual,Motorcycle
+Toyota,Sequoia,Gasoline,5.7,Automatic,Truck
+BMW,7 Series,Gasoline,3,Automatic,Car
+Lexus,GX 460,Gasoline,4.6,Automatic,Car
+Mercedes,S-Class,Diesel,3,Automatic,Car
+Ford,Bronco,Gasoline,2.3,Manual,Truck
+Nissan,Murano,Gasoline,3.5,CVT,Car
