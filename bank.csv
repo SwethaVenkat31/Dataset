@@ -1,0 +1,51 @@
+TransactionID,CustomerID,Age,Gender,TransactionAmount,TransactionType,Location,TimeOfTransaction,IsFraudulent
+1,C001,28,Male,250,Withdrawal,New York,14:05,0
+2,C002,45,Female,1500,Transfer,Chicago,9:15,1
+3,C003,34,Male,800,Deposit,Los Angeles,17:20,0
+4,C004,56,Female,300,Withdrawal,Boston,12:30,0
+5,C005,23,Male,2000,Transfer,New York,13:45,1
+6,C006,33,Female,500,Withdrawal,Miami,8:05,0
+7,C007,40,Male,1200,Deposit,Chicago,18:10,0
+8,C008,29,Female,4500,Transfer,Los Angeles,16:30,1
+9,C009,50,Male,350,Withdrawal,Boston,14:00,0
+10,C010,22,Female,150,Deposit,Miami,11:25,0
+11,C011,31,Male,2500,Transfer,Chicago,10:45,1
+12,C012,42,Female,1000,Withdrawal,New York,15:35,0
+13,C013,27,Male,700,Deposit,Los Angeles,16:00,0
+14,C014,55,Female,5000,Transfer,Boston,14:30,1
+15,C015,26,Male,50,Withdrawal,Miami,13:55,0
+16,C016,37,Female,1500,Deposit,New York,12:15,0
+17,C017,45,Male,2500,Transfer,Chicago,16:50,1
+18,C018,32,Female,1000,Withdrawal,Los Angeles,11:10,0
+19,C019,28,Male,3000,Deposit,Boston,14:25,0
+20,C020,36,Female,4500,Transfer,Miami,10:35,1
+21,C021,30,Male,200,Withdrawal,New York,9:20,0
+22,C022,46,Female,6000,Deposit,Chicago,8:50,1
+23,C023,28,Male,1500,Transfer,Los Angeles,16:00,0
+24,C024,50,Female,1000,Withdrawal,Boston,18:20,0
+25,C025,35,Male,4000,Transfer,Miami,14:15,1
+26,C026,27,Female,700,Deposit,New York,17:25,0
+27,C027,41,Male,600,Withdrawal,Chicago,13:30,0
+28,C028,29,Female,2500,Deposit,Los Angeles,12:05,1
+29,C029,52,Male,900,Transfer,Boston,10:15,0
+30,C030,33,Female,1200,Withdrawal,Miami,11:00,0
+31,C031,38,Male,3000,Deposit,New York,15:40,0
+32,C032,60,Female,5000,Transfer,Chicago,9:05,1
+33,C033,43,Male,3500,Withdrawal,Los Angeles,14:30,0
+34,C034,25,Female,600,Deposit,Boston,13:10,0
+35,C035,29,Male,7500,Transfer,Miami,16:45,1
+36,C036,32,Female,3000,Withdrawal,New York,9:25,0
+37,C037,49,Male,500,Deposit,Chicago,11:45,0
+38,C038,30,Female,1000,Transfer,Los Angeles,17:55,1
+39,C039,55,Male,4500,Withdrawal,Boston,18:15,0
+40,C040,47,Female,2000,Deposit,Miami,14:40,0
+41,C041,26,Male,1200,Transfer,New York,9:00,1
+42,C042,31,Female,300,Withdrawal,Chicago,11:05,0
+43,C043,48,Male,7000,Deposit,Los Angeles,13:20,0
+44,C044,37,Female,200,Transfer,Boston,10:00,0
+45,C045,34,Male,6000,Withdrawal,Miami,15:50,1
+46,C046,22,Female,500,Deposit,New York,14:55,0
+47,C047,43,Male,300,Transfer,Chicago,12:40,0
+48,C048,51,Female,2000,Withdrawal,Los Angeles,9:45,1
+49,C049,60,Male,4500,Deposit,Boston,13:35,0
+50,C050,28,Female,200,Transfer,Miami,16:10,0
