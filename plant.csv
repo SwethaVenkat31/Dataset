@@ -1,0 +1,49 @@
+Plant Type,Leaf Color,Leaf Shape,Presence of Spots,Disease Severity,Disease Type
+Tomato,Green,Oval,Yes,Mild,Early Blight
+Tomato,Yellow,Round,Yes,Severe,Late Blight
+Tomato,Green,Heart,No,None,Healthy
+Potato,Green,Oval,No,None,Healthy
+Potato,Green,Round,Yes,Moderate,Leaf Spot Disease
+Potato,Yellow,Oval,Yes,Mild,Late Blight
+Lettuce,Green,Long,Yes,Severe,Powdery Mildew
+Lettuce,Dark Green,Round,Yes,Moderate,Downy Mildew
+Lettuce,Light Green,Oval,No,None,Healthy
+Cucumber,Dark Green,Oval,No,None,Healthy
+Cucumber,Green,Round,Yes,Severe,Bacterial Wilt
+Cucumber,Yellow,Oval,Yes,Moderate,Downy Mildew
+Apple,Green,Oval,Yes,Mild,Apple Scab
+Apple,Red,Round,Yes,Moderate,Powdery Mildew
+Apple,Yellow,Heart,No,None,Healthy
+Grapes,Green,Oval,Yes,Severe,Downy Mildew
+Grapes,Purple,Round,No,None,Healthy
+Grapes,Green,Heart,Yes,Mild,Powdery Mildew
+Banana,Yellow,Oval,Yes,Severe,Banana Leaf Spot
+Banana,Green,Long,No,None,Healthy
+Banana,Yellow,Round,Yes,Moderate,Bacterial Wilt
+Orange,Green,Round,Yes,Mild,Citrus Canker
+Orange,Orange,Oval,No,None,Healthy
+Orange,Yellow,Heart,Yes,Severe,Greasy Spot Disease
+Corn,Green,Round,Yes,Moderate,Corn Rust
+Corn,Yellow,Oval,No,None,Healthy
+Corn,Green,Long,Yes,Severe,Leaf Blight
+Wheat,Yellow,Round,Yes,Mild,Wheat Blight
+Wheat,Green,Oval,No,None,Healthy
+Wheat,Brown,Long,Yes,Moderate,Yellow Rust
+Peas,Green,Oval,Yes,Severe,Powdery Mildew
+Peas,Yellow,Round,Yes,Mild,Pea Leaf Blight
+Peas,Green,Heart,No,None,Healthy
+Soybean,Green,Round,Yes,Mild,Soybean Rust
+Soybean,Yellow,Oval,Yes,Severe,Yellow Mosaic Virus
+Soybean,Green,Oval,No,None,Healthy
+Rice,Green,Oval,Yes,Moderate,Rice Blast
+Rice,Yellow,Long,Yes,Severe,Rice Sheath Blight
+Rice,Green,Round,No,None,Healthy
+Carrot,Orange,Long,No,None,Healthy
+Carrot,Yellow,Round,Yes,Moderate,Carrot Root Rot
+Carrot,Orange,Oval,Yes,Severe,Powdery Mildew
+Sweet Potato,Brown,Oval,Yes,Mild,Sweet Potato Canker
+Sweet Potato,Green,Heart,No,None,Healthy
+Sweet Potato,Yellow,Round,Yes,Severe,Sweet Potato Virus
+Beans,Green,Oval,Yes,Moderate,Bean Rust
+Beans,Yellow,Long,Yes,Mild,Bacterial Blight
+Beans,Green,Heart,No,None,Healthy
