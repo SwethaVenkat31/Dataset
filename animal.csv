@@ -1,0 +1,54 @@
+Animal Name,Category,Weight,Height,Diet,Habitat,Color,Speed,Habitat Type
+Lion,Mammal,190,120,Carnivore,Savanna,Yellow,80,Grassland
+Elephant,Mammal,6000,300,Herbivore,Forest/Grassland,Grey,25,Forest
+Tiger,Mammal,220,110,Carnivore,Forest,Orange,60,Forest
+Giraffe,Mammal,800,500,Herbivore,Savanna,Yellow/Spots,60,Grassland
+Zebra,Mammal,350,150,Herbivore,Savanna,Black/White,65,Grassland
+Kangaroo,Mammal,85,120,Herbivore,Grassland,Brown,70,Grassland
+Gorilla,Mammal,180,150,Herbivore,Forest,Black,40,Forest
+Whale,Mammal,130000,2000,Carnivore,Ocean,Blue/Gray,50,Ocean
+Leopard,Mammal,90,60,Carnivore,Forest/Savanna,Yellow/Spots,60,Forest
+Cheetah,Mammal,70,80,Carnivore,Savanna,Yellow/Spots,120,Grassland
+Penguin,Bird,25,40,Carnivore,Antarctica,Black/White,2,Cold/Polar
+Parrot,Bird,0.5,30,Omnivore,Tropical Forest,Green,50,Forest
+Eagle,Bird,4,85,Carnivore,Mountains,Brown/White,120,Mountains
+Owl,Bird,1.2,45,Carnivore,Forest,Brown,50,Forest
+Flamingo,Bird,2.5,130,Omnivore,Wetlands,Pink,30,Wetland
+Peacock,Bird,4,220,Omnivore,Forest,Colorful,16,Forest
+Ostrich,Bird,120,270,Herbivore,Savannah,Brown/Black,70,Grassland
+Swan,Bird,11,150,Herbivore,Lakes/Rivers,White,60,Wetlands
+Bat,Mammal,0.02,10,Insectivore,Caves/Forests,Brown,60,Caves/Forests
+Crocodile,Reptile,400,500,Carnivore,Rivers/Lakes,Green,32,Wetland
+Lizard,Reptile,0.5,30,Omnivore,Desert/Forest,Green/Brown,10,Desert
+Turtle,Reptile,50,60,Herbivore,Oceans/Land,Green,3,Ocean
+Snake,Reptile,3,200,Carnivore,Desert/Forest,Green,30,Desert/Forest
+Chameleon,Reptile,0.1,15,Insectivore,Forest,Green,0.1,Forest
+Komodo Dragon,Reptile,70,300,Carnivore,Islands,Green/Brown,20,Island
+Alligator,Reptile,450,450,Carnivore,Wetlands,Green,32,Wetlands
+Rattlesnake,Reptile,1.5,100,Carnivore,Deserts/Grasslands,Brown,30,Desert
+Dolphin,Mammal,200,250,Carnivore,Ocean,Grey,60,Ocean
+Shark,Fish,800,400,Carnivore,Ocean,Grey,80,Ocean
+Salmon,Fish,5,80,Omnivore,Freshwater,Pink,35,Freshwater
+Goldfish,Fish,0.01,10,Omnivore,Freshwater,Gold,10,Freshwater
+Clownfish,Fish,0.02,10,Omnivore,Coral Reef,Orange/White,10,Coral Reef
+Tuna,Fish,500,300,Carnivore,Ocean,Blue,75,Ocean
+Jellyfish,Invertebrate,0.5,30,Carnivore,Ocean,Transparent,3,Ocean
+Octopus,Invertebrate,10,50,Carnivore,Ocean,Brown/Red,30,Ocean
+Spider,Invertebrate,0.03,15,Carnivore,Forest,Brown,1,Forest
+Lobster,Invertebrate,2,25,Omnivore,Ocean,Red,3,Ocean
+Ant,Invertebrate,0.001,1,Omnivore,Ground,Black,0.1,Ground
+Snail,Invertebrate,0.03,8,Herbivore,Gardens,Brown,0.01,Gardens
+Butterfly,Invertebrate,0.02,10,Herbivore,Forest/Flowers,Multi-colored,15,Forest/Flowers
+Bee,Invertebrate,0.0001,2,Herbivore,Flowers/Gardens,Yellow/Black,20,Flowers
+Seahorse,Fish,0.02,15,Omnivore,Ocean,Orange,3,Ocean
+Carp,Fish,5,60,Omnivore,Freshwater,Silver,8,Freshwater
+Frog,Amphibian,0.3,10,Insectivore,Wetlands,Green,10,Wetlands
+Salamander,Amphibian,0.1,20,Carnivore,Wetlands,Yellow,5,Wetlands
+Toad,Amphibian,0.2,10,Insectivore,Wetlands,Green,3,Wetlands
+Newt,Amphibian,0.05,7,Carnivore,Wetlands,Brown,4,Wetlands
+Frogfish,Fish,0.03,20,Carnivore,Ocean,Brown,3,Ocean
+Catfish,Fish,1,50,Omnivore,Freshwater,Grey,8,Freshwater
+Piranha,Fish,0.8,30,Carnivore,Rivers,Grey,45,Freshwater
+Barracuda,Fish,15,120,Carnivore,Ocean,Silver,60,Ocean
+Walrus,Mammal,1200,200,Carnivore,Arctic,Grey,35,Arctic
+Otter,Mammal,15,60,Carnivore,Rivers/Coast,Brown,45,Rivers/Coast
